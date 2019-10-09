@@ -3,7 +3,7 @@ package cse360assign2;
 /**
  * 
  * @author Albert De La Cruz
- *
+ * 
  */
 public class AddingMachine {
 	
