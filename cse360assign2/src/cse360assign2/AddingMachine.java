@@ -14,7 +14,7 @@ public class AddingMachine {
 	}
 	
 	public int getTotal () {
-		return 0;
+		return 0; 
 	}
 	
 	public void add (int value) {
